@@ -613,7 +613,7 @@ section{
     border-bottom: 2px solid var(--main-color);
     display: none;
     text-align: center;
-    display: none;
+    
   }
 
   .navbar a {
